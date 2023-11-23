@@ -1,0 +1,9 @@
+{
+	"name": "tusharsahoo7julyfactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4fc74376-8b01-424c-8464-9b4efa4b0be5",
+		"tenantId": "2d2ff5f7-e437-4008-ba6d-d63d75b0909b"
+	}
+}
